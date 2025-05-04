@@ -3,6 +3,8 @@
 🎓 B.S. in Computer Science Graduate from UNC at Chapel Hill<br/>
 💻 Currently a Full-Stack Developer at Wells Fargo<br/>
 
+Email: richardokoro12@gmail.com<br/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/richardokoro) 
