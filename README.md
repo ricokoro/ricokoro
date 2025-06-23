@@ -1,8 +1,8 @@
-## Hi, I'm Richard ✅
+## Hi, my name is Rich ✅
 
 🎓 B.S. in Computer Science Graduate from UNC at Chapel Hill<br/>
 💻 Currently a Full-Stack Developer at Wells Fargo<br/>
-🧠 Working on machine learning projects in my free time
+🧠 Working on AI and machine learning projects in my free time
 
 Email: richardokoro12@gmail.com<br/>
 
